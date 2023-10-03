@@ -1,0 +1,59 @@
+.logo{
+color: #2196F3;
+font-family: Raleway;
+font-size: 26px;
+font-style: normal;
+font-weight: 700;
+letter-spacing: 0.78px;
+}
+.logo-header{
+color: #000;
+font-family: Raleway;
+font-size: 26px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 0.78px;
+}
+a{
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}
+.nav-list-link{
+    color: #212121;
+font-family: Roboto;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+letter-spacing: 0.28px;
+}
+
+.contacts-list-link{
+    color: #757575;
+font-family: Roboto;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+letter-spacing: 0.28px;
+}
+
+.contacts-list-link:hover, .nav-list-link:hover{
+    color: #2196F3;
+}
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contacts-list{
+    display: flex;
+    gap: 30px;
+}
+.nav-list{
+    display: flex;
+    gap: 50px;
+}
